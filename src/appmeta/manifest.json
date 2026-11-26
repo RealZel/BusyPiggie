@@ -1,0 +1,10 @@
+{
+  "format_version": 1,
+  "id": "io.github.realzel.pixelhatch",
+  "name": "Pixel Hatch",
+  "version": "1.0.0",
+  "api_version": "27.9.0",
+  "description": "Drop pixels into eight silhouettes and bring each one to life.",
+  "author": "RealZel",
+  "heap_size_kib": 256
+}
